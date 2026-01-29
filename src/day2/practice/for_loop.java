@@ -20,7 +20,7 @@ public class for_loop {
         }
         System.out.println("Sum of first " + num + " natural numbers = " + sum);
 
-        // 2. Write a Program to reverse the integer number eg. Input n=231 reverse is
+        // 2. Write a Program to reverse the integer number eg. Input n=231 reverse is 321
         // 132
         System.out.print("Enter the numbers to Reverse: ");
         int number = sc.nextInt();
